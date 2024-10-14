@@ -39,4 +39,6 @@ When run on a dataset like `family0.csv`, the program calculates the probability
 1. **Install Python 3.12**: The latest version supported for this project is Python 3.12.
 2. **Clone the repo**: `git clone https://github.com/musty-ess/Heredity-Genetic-Trait-Prediction-Using-Bayesian-Networks-AI.git`
 3. **Run the program**: `python heredity.py data/family0.csv`
-# Heredity-Genetic-Trait-Prediction-Using-Bayesian-Networks-AI
+
+## Future Improvements
+While the current AI model works well for the GJB2 gene and its associated traits, the underlying logic can be adapted to model other genes and traits by modifying the probability constants in the PROBS dictionary.
