@@ -1,4 +1,4 @@
-# Heredity: Genetic Trait Prediction Using Bayesian Networks
+# Heredity: Genetic Trait Prediction Using Bayesian Networks AI
 
 ## Overview
 This project aims to implement an AI that assesses the likelihood of a person having a particular genetic trait based on their family history. The trait in question is modeled using a **Bayesian Network**, where the number of copies of a gene a person has is represented by the `Gene` variable, and whether they exhibit the trait is represented by the `Trait` variable.
